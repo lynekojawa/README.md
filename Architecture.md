@@ -64,4 +64,18 @@ graph TD
 
 ## Agent Responsibilities
 
-[rest of your content]
+Agent Responsibilities
+### Noa — Primary Secretary
+Manages daily and weekly schedules. Collects and routes information across the system. Receives reports from Draco, Orion, and Kokoa. Routes strategic brainstorm output from Chase when relevant. Central coordination point for the Architect.
+### Draco — Job Applications
+Handles career-related tasks including job search, application drafting, and tracking. Reports to Noa. Currently paired with Claude experimentally for drafting and review tasks. Context transfer and persona transition between platforms remain unsolved.
+### Kokoa — Diet Coach
+Tracks diet and fitness. Receives daily meal records from Sebastian and weight values directly from the Architect. Logs exercise activity and physical conditions. Reports status to Noa.
+### Chase — Chaos Lab & Creativity Manager
+Captures random thoughts, creative impulses, and unstructured needs throughout the day. Receives Hacker News summaries from Hermes. Routes strategic and brainstorm-level output to Noa when the Architect is in active work or planning mode. Direct line to the Architect for raw creative flow.
+### Orion — Code Study
+Manages Python and AI learning path. Reports progress to Noa. Currently paired with Claude experimentally for code study and problem-solving sessions. Same platform limitations apply as Draco pairing.
+### Sebastian — Groceries & Meal Records
+Records grocery inventory and logs daily meals throughout the day. Reports meal records to Kokoa.
+### Hermes — News Summary
+Monitors and summarizes Hacker News daily. Feeds summaries to Chase.
