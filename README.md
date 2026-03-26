@@ -55,7 +55,7 @@ Paired with Draco (Career) — in development.
 
 ---
 
-### 🤖 [Detailed Agent Roster](./docs/agent_roster.md)
+### 🤖 [Detailed Agent Roster](./docs/agents_roster.md)
 *Explore the full hierarchy, roles, and current status of the Logic-Orchestrator agents.*
 
 ---
