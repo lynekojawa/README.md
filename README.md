@@ -48,7 +48,7 @@ Paired with Draco (Career) — in development.
 *History of UTF-8 encoding fixes, API security hardening, and system stability notes.*
 ---
 
-### 🚧 Anti-ATS Progress — Phase 1
+### 🚧 ATS-Logic-Simulator- Progress — Phase 1
 - Roadmap defined. Active development underway.
 - Built on Python — keyword matching, TF-IDF scoring, semantic similarity
 - Goal: understand how ATS systems rank resumes from the inside
